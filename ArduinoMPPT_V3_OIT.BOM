@@ -1,0 +1,43 @@
+Bill of Material for 
+On 2/18/2013 at 9:37:00 AM
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 1N5824              SMB              2    D?, D?                       Schottky Diode       
+ 24V Battery         BAT-2            2    BT?, BT?                     Multicell Battery    
+ ACS755                               3    *, *, *                                           
+ Cap Pol1            cap pol 100mil    6    C?, C?, C?, C?, C?, C?       Polarized Capacitor (Radial) 
+ Cap Pol1            Cap Pol 8mm      2    C?, C?                       Polarized Capacitor (Radial) 
+ Cap Pol1            C-P-1210         4    C7, C7, C?, C?               Polarized Capacitor (Radial) 
+ Cap Pol1            RB7.6-15         5    C?, C?, C?, C?, C?           Polarized Capacitor (Radial) 
+ Cap Semi            1608[0603]       8    C?, C?, C?, C?, C?, C?, C?   Capacitor (Semiconductor SIM Model) 
+                                           C?
+ D Schottky          SMB              8    D?, D?, D?, D?, D?, D?, D?   Schottky Diode       
+                                           D?
+ Diode 1N4007        DO-41            1    D?                           1 Amp General Purpose Rectifier 
+ Fan Control         HDR1X2           1    P?                           Header, 2-Pin        
+ Fuse 2              PIN-W2/E2.8      1    F?                           Fuse                 
+ Header 6X2          HDR2X6           1    P?                           Header, 6-Pin, Dual row 
+ Inductor Iron       AXIAL-0.9        2    L?, L?                       Magnetic-Core Inductor 
+ Inductor            0402-A           2    L?, L?                       Inductor             
+ Inductor            INDUCTOR 200MIL    2    L?, L?                       Inductor             
+ ir2110              DIP-14           1    u?                                                
+ IRF1404             TO-220AB         1    Q?                           N-Channel Power MOSFET 
+ IRF3205             TO-220AB         3    Q?, Q?, Q?                   N-Channel Power MOSFET 
+ LED1                LED              1    PW_MCU_LED?                  Typical RED GaAs LED 
+ LM1117CT 3V         lm7805           1    U?                           Series 3-Terminal Positive Regulator 
+ LM2596 15.0                          1    U?                                                
+ LM2596 5.0                           1    U?                                                
+ OP07                N014             1    U?                           Low-Noise JFET-Input Operational Amplifier 
+ Relay-DPST          MODULE6          2    K?, K?                       Dual-Pole Single-Throw Relay 
+ Res1                AXIAL-0.3        6    R?, R?, R?, R?, R?, R?       Resistor             
+ Res1                R-0805           2    R?, R?                       Resistor             
+ Res2                C-NP-0805       12    R?, R?, R?, R?, R?, R?, R?   Resistor             
+                                           R?, R?, R?, R?, R?
+ Res2                R 0.25W 300MIL    1    R?                           Resistor             
+ Solar Panel                          2    *?, *?                                            
+ STM32F051C6                          1    U?                                                
+ SW-PB               SPST-2           1    S?                           Switch               
+ Thermo Couple       HDR1X2           1    P?                           Header, 2-Pin        
+ TLP350                               1    *                                                 
+ ULN2803A            A18              1    U?                           High-Voltage, High-Current Darlington Array 

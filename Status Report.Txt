@@ -1,0 +1,11 @@
+Output: Simple BOM
+Type  : SimpleBOM
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[ArduinoMPPT_V3_OIT.BOM]
+   Generated File[ArduinoMPPT_V3_OIT.CSV]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 9:37:00 AM On 2/18/2013
